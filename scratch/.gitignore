@@ -1,0 +1,15 @@
+# Large corpus + subagent raw working dumps — not needed for reproducibility,
+# scripts/14-19 regenerate topup2work/*.txt from sv_full.txt if ever re-run.
+# Corpus source: https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/sv/sv_full.txt
+sv_full.txt
+topup2work/candidates_*.txt
+topup2work/candidates_*.tsv
+topup2work/freq_all.json
+topup2work/suffix_dump.txt
+
+# Superseded intermediate artifacts (fonts/html already embedded in ../index.html)
+alias-game.html
+alias-game-standalone.html
+fonts.css
+*.b64
+*.woff2

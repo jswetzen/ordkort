@@ -1,0 +1,196 @@
+hund|good|enkelt|klassiskt husdjur, barnvänligt
+katt|good|enkelt|klassiskt husdjur, barnvänligt
+häst|good|enkelt|vardagligt djur, lätt ledtrådat
+fågel|good|enkelt|konkret vardagsord
+fisk|good|enkelt|konkret vardagsord
+orm|good|enkelt|välkänt djur
+ko|good|enkelt|klassiskt bondgårdsdjur
+får|good|enkelt|bondgårdsdjur, verbet stör inte
+gris|good|enkelt|klassiskt bondgårdsdjur
+räv|good|enkelt|välkänt sagodjur
+ekorre|good|enkelt|välkänt vardagsdjur
+björn|good|enkelt|djuret dominerar över namnet
+älg|good|enkelt|välkänt svenskt djur
+kanin|good|enkelt|klassiskt husdjur
+hamster|good|enkelt|klassiskt husdjur
+igelkott|good|enkelt|välkänt trädgårdsdjur
+sköldpadda|good|enkelt|välkänt djur, lätt beskrivet
+höna|good|enkelt|bondgårdsdjur
+anka|good|enkelt|välkänt djur
+gås|good|enkelt|välkänt djur
+svan|good|enkelt|välkänt djur
+pingvin|good|enkelt|barnfavorit, lätt ledtrådad
+örn|good|enkelt|välkänd rovfågel
+duva|good|enkelt|vardaglig stadsfågel
+papegoja|good|enkelt|välkänt djur, pratar
+lejon|good|enkelt|klassiskt zoodjur
+tiger|good|enkelt|klassiskt zoodjur
+zebra|good|enkelt|klassiskt zoodjur
+giraff|good|enkelt|klassiskt zoodjur
+elefant|good|enkelt|klassiskt zoodjur
+noshörning|good|enkelt|välkänt zoodjur
+flodhäst|good|enkelt|välkänt zoodjur
+varg|good|enkelt|välkänt sagodjur
+bäver|good|enkelt|välkänt djur, bygger dammar
+mink|good|mellan|mindre bekant för barn
+krokodil|good|enkelt|klassiskt barndjur
+panter|good|enkelt|känd via Bagheera, Rosa Pantern
+gepard|good|enkelt|snabbaste djuret, skolkunskap
+vildsvin|good|enkelt|välkänt svenskt djur
+apa|good|enkelt|klassiskt barndjur
+lemur|good|mellan|känd via film, ej vardaglig
+koala|good|enkelt|välkänt gulligt djur
+känguru|good|enkelt|välkänt djur, hoppar
+struts|good|enkelt|välkänd stor fågel
+tukan|good|mellan|känd fågel men ovanligare namn
+kakadua|good|mellan|papegoja gissas först
+bröd|good|enkelt|vardagsmat
+mjölk|good|enkelt|vardagsdryck
+smör|good|enkelt|vardagsmat
+ost|good|enkelt|vardagsmat
+ägg|good|enkelt|vardagsmat
+bacon|good|enkelt|etablerat vardagsord
+korv|good|enkelt|vardagsmat
+pizza|good|enkelt|vardagsmat
+hamburgare|good|enkelt|vardagsmat
+pommes|good|enkelt|vardagligt kortord
+glass|good|enkelt|barnfavorit
+choklad|good|enkelt|vardagsmat
+frukt|good|enkelt|enkel kategori, lätt ledtrådad
+äpple|good|enkelt|vardagsfrukt
+päron|good|enkelt|vardagsfrukt
+banan|good|enkelt|vardagsfrukt
+apelsin|good|enkelt|vardagsfrukt
+citron|good|enkelt|vardagsfrukt
+jordgubbar|bad|cut|plural, grundformen jordgubbe rätt
+blåbär|good|enkelt|samma form singular/plural
+körsbär|good|enkelt|samma form singular/plural
+morot|good|enkelt|vardagsgrönsak
+gurka|good|enkelt|vardagsgrönsak
+tomat|good|enkelt|vardagsgrönsak
+potatis|good|enkelt|vardagsmat
+ris|good|enkelt|vardagsmat
+pasta|good|enkelt|vardagsmat
+köttsoppa|good|mellan|specifik rätt, svår precisera exakt
+godis|good|enkelt|barnfavorit
+tårta|good|enkelt|vardagsord
+kaka|good|enkelt|vardagsord
+bullar|bad|cut|plural, grundformen bulle rätt
+kaffe|good|enkelt|vardagsdryck
+te|good|enkelt|vardagsdryck
+juice|good|enkelt|vardagsdryck
+vatten|good|enkelt|vardagsord
+saft|good|enkelt|vardagsdryck
+öl|good|enkelt|välkänd dryck
+vin|good|enkelt|välkänd dryck
+brandman|good|enkelt|klassiskt barnyrke
+polis|good|enkelt|klassiskt barnyrke
+läkare|good|enkelt|vardagsyrke
+tandläkare|good|enkelt|vardagsyrke
+lärare|good|enkelt|vardagsyrke
+sjuksköterska|good|enkelt|vardagsyrke
+pilot|good|enkelt|vardagsyrke
+sjöman|good|enkelt|välkänt yrke
+bonde|good|enkelt|vardagsyrke
+snickare|good|enkelt|vardagsyrke
+kock|good|enkelt|vardagsyrke
+frisör|good|enkelt|vardagsyrke
+fotograf|good|enkelt|vardagsyrke
+målare|good|enkelt|vardagsyrke
+veterinär|good|enkelt|barnbekant yrke
+reparatör|good|mellan|vagt, synonymer gissas först
+musiker|good|enkelt|vardagsyrke
+sångare|good|enkelt|vardagsyrke
+dansör|good|mellan|dansare gissas oftare
+målvakt|good|enkelt|barnbekant sportord
+idrottsman|good|mellan|idrottare gissas oftare
+byggare|good|enkelt|Byggare Bob, barnbekant
+elektriker|good|enkelt|vardagsyrke
+mekaniker|good|enkelt|vardagsyrke
+väktare|good|mellan|vakt gissas först
+kassör|good|mellan|föreningsroll, ej butikskassa
+fotboll|good|enkelt|vardagssport
+basket|good|enkelt|vardagssport
+hockey|good|enkelt|vardagssport
+tennis|good|enkelt|vardagssport
+badminton|good|enkelt|vardagssport
+simning|good|enkelt|vardagssport
+skidor|good|enkelt|pluralformen är den idiomatiska
+skridskor|good|enkelt|pluralformen är den idiomatiska
+snöboll|good|enkelt|barnvardagsord
+gunga|good|enkelt|barnvardagsord
+rutschkana|good|enkelt|barnvardagsord
+byggklossar|good|enkelt|leksaken är pluralbegrepp
+lego|good|enkelt|genericerat, lätt att ledtråda
+pussel|good|enkelt|barnvardagsord
+boll|good|enkelt|barnvardagsord
+dragkamp|good|enkelt|välkänd lek
+brännboll|good|enkelt|välkänd skolsport
+frisbee|good|enkelt|genericerat, lätt att ledtråda
+kurragömma|good|enkelt|klassisk barnlek
+hopprep|good|enkelt|barnvardagsord
+träd|good|enkelt|vardagsord
+gran|good|enkelt|julgran gör den barnbekant
+tall|good|enkelt|välkänt träd
+ek|good|enkelt|välkänt träd, ekollon
+björk|good|enkelt|välkänt träd
+lind|good|mellan|mindre känd, förväxlas med efternamn
+blomma|good|enkelt|vardagsord
+ros|good|enkelt|välkänd blomma
+tulpan|good|enkelt|välkänd blomma
+snödroppe|good|enkelt|känd vårblomma
+blåklocka|good|enkelt|känd sommarblomma
+nässlor|bad|cut|plural, grundformen nässla rätt
+mossa|good|enkelt|vardagligt naturord
+lingon|good|enkelt|svenskt vardagsbär
+växter|bad|cut|plural, grundformen växt rätt
+blad|good|enkelt|vardagsord
+kvist|good|enkelt|vardagsord
+bark|good|enkelt|konkret, trädet dominerar
+rot|good|enkelt|konkret vardagsord
+gräs|good|enkelt|vardagsord
+klöver|good|enkelt|fyrklöver barnbekant, kortfärg stör inte
+ormbunke|good|mellan|känd växt, ovanligare namn
+bord|good|enkelt|vardagsmöbel
+stol|good|enkelt|vardagsmöbel
+säng|good|enkelt|vardagsmöbel
+soffa|good|enkelt|vardagsmöbel
+skåp|good|enkelt|vardagsmöbel
+dörr|good|enkelt|vardagsord
+fönster|good|enkelt|vardagsord
+lampa|good|enkelt|vardagsord
+matta|good|enkelt|vardagsord
+tavla|good|enkelt|vardagsord
+spegel|good|enkelt|vardagsord
+diskho|good|enkelt|vardagsord
+tallrik|good|enkelt|vardagsord
+mugg|good|enkelt|vardagsord
+glas|good|enkelt|vardagsord
+gaffel|good|enkelt|vardagsord
+kniv|good|enkelt|vardagsord
+sked|good|enkelt|vardagsord
+burk|good|enkelt|vardagsord
+låda|good|enkelt|vardagsord
+hylla|good|enkelt|vardagsord
+garderob|good|enkelt|vardagsord
+kudde|good|enkelt|vardagsord
+täcke|good|enkelt|vardagsord
+lakan|good|enkelt|vardagsord, samma form plural
+presenning|good|mellan|inte barnvardagligt
+hammare|good|enkelt|vardagsverktyg
+såg|good|enkelt|vardagsverktyg
+spik|good|enkelt|vardagsord
+skruv|good|enkelt|vardagsord
+tång|good|enkelt|verktyget dominerar, homonym ofarlig
+skruvmejsel|good|enkelt|vardagsverktyg
+spade|good|enkelt|vardagsverktyg
+hacka|good|enkelt|barnbekant via Minecraft, trädgård
+borr|good|enkelt|vardagsverktyg
+täljkniv|good|mellan|kräver tälja-begreppet
+yxa|good|enkelt|vardagsverktyg
+lim|good|enkelt|vardagsord
+snöre|good|enkelt|vardagsord
+band|good|enkelt|flera lätta ledtrådsvägar
+borste|good|enkelt|vardagsord
+mop|bad|cut|felstavat, svenska är mopp
+kost|bad|cut|kvast avses, kost betyder mat
