@@ -1,8 +1,8 @@
 # Ordkort – ordgissningsspelet
 
 En enkel, fristående webbversion av ett klassiskt ordgissningsspel, på svenska.
-Tre svårighetsgrader (enkelt / mellan / svårt), ~1000 ord, inga upprepningar
-förrän kortleken är slut.
+Tre svårighetsgrader (enkelt / mellan / svårt) plus ett bildläge för de minsta,
+~1000 ord, inga upprepningar förrän kortleken är slut.
 
 Öppna direkt: **https://jswetzen.github.io/ordkort/**
 
@@ -22,6 +22,16 @@ Orden är genererade och sedan validerade mot ett verkligt svenskt
 frekvenskorpus ([hermitdave/FrequencyWords](https://github.com/hermitdave/FrequencyWords),
 OpenSubtitles-baserat) för att sålla bort påhittade eller felstavade ord, samt
 manuellt korrekturlästa för böjningsfel och dubbletter mellan nivåerna.
+
+## Om bildläget
+
+"Bilder" är ett fjärde läge tänkt för barn som ännu inte läser själva: 291 av
+orden från Enkelt-nivån som går att avbilda entydigt som en enda bild (djur,
+mat, fordon, vardagsföremål) har fått en ikon från [OpenMoji](https://openmoji.org)
+(CC BY-SA 4.0), inbäddad direkt i sidan. Ord som är tvetydiga som bild (t.ex.
+"ben" = arm/ben eller "hopp" = hopp/hopprep), abstrakta (t.ex. "kärlek",
+"tävling") eller släktrelationer (t.ex. "farmor" vs "mormor") är exkluderade,
+liksom dubbletter där flera ord skulle fått samma bild.
 
 ## Köra lokalt
 
