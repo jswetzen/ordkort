@@ -25,13 +25,15 @@ manuellt korrekturlästa för böjningsfel och dubbletter mellan nivåerna.
 
 ## Om bildläget
 
-"Bilder" är ett fjärde läge tänkt för barn som ännu inte läser själva: 291 av
+"Bilder" är ett fjärde läge tänkt för barn som ännu inte läser själva: 239 av
 orden från Enkelt-nivån som går att avbilda entydigt som en enda bild (djur,
 mat, fordon, vardagsföremål) har fått en ikon från [OpenMoji](https://openmoji.org)
 (CC BY-SA 4.0), inbäddad direkt i sidan. Ord som är tvetydiga som bild (t.ex.
 "ben" = arm/ben eller "hopp" = hopp/hopprep), abstrakta (t.ex. "kärlek",
 "tävling") eller släktrelationer (t.ex. "farmor" vs "mormor") är exkluderade,
-liksom dubbletter där flera ord skulle fått samma bild.
+liksom dubbletter där flera ord skulle fått samma bild. Urvalet är därefter
+manuellt genomgånget bild för bild, och ord där ikonen inte kändes tillräckligt
+tydlig eller träffsäker har plockats bort.
 
 ## Köra lokalt
 
