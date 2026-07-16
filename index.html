@@ -52,6 +52,29 @@
   --tier-deep: var(--enkelt-deep);
 }
 
+@media (prefers-color-scheme: light) {
+  :root {
+    --ground: #f3dda0;
+    --ground-2: #eccb84;
+    --ground-2-line: rgba(130, 85, 25, 0.35);
+    --paper: #fefaf0;
+    --cream: #3a2712;
+    --cream-soft: rgba(58, 39, 18, 0.8);
+    --cream-faint: rgba(58, 39, 18, 0.6);
+    --brass: #d9a13a;
+    --brass-bright: #f0c66b;
+    --brass-deep: #a06b1e;
+    --accent-ink: #663f10;
+
+    --enkelt: #6fa84a;
+    --enkelt-deep: #4f7a32;
+    --mellan: #e8842a;
+    --mellan-deep: #b3631a;
+    --svart: #d35a3f;
+    --svart-deep: #9c3c26;
+  }
+}
+
 * { box-sizing: border-box; }
 
 html, body {
@@ -323,6 +346,56 @@ body[data-tier="enkelt"] .card.drawing .word { animation: popBounce 0.45s cubic-
     animation-duration: 0.001ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.001ms !important;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background:
+      radial-gradient(ellipse 120% 60% at 50% -8%, rgba(255, 255, 255, 0.55), transparent 60%),
+      radial-gradient(ellipse 90% 70% at 50% 108%, rgba(120, 74, 20, 0.16), transparent 65%),
+      repeating-linear-gradient(90deg, rgba(110, 70, 20, 0.07) 0px, transparent 1.5px 7px),
+      var(--ground);
+  }
+
+  .wordmark {
+    text-shadow: 0 2px 0 rgba(120, 74, 20, 0.25), 0 0 24px rgba(255, 255, 255, 0.6);
+  }
+
+  .dial {
+    box-shadow: inset 0 2px 8px rgba(120, 74, 20, 0.22);
+  }
+
+  .dial-highlight {
+    box-shadow: 0 3px 10px rgba(120, 74, 20, 0.28);
+  }
+
+  .card {
+    box-shadow: 0 20px 34px -12px rgba(60, 38, 10, 0.5), 0 1px 0 rgba(255, 255, 255, 0.6) inset;
+  }
+
+  .card::after {
+    background-image: radial-gradient(rgba(33, 21, 9, 0.06) 1px, transparent 1px);
+  }
+
+  .btn-next {
+    box-shadow: 0 6px 0 var(--brass-deep), 0 12px 20px rgba(60, 38, 10, 0.3);
+  }
+
+  .btn-next:active {
+    box-shadow: 0 1px 0 var(--brass-deep), 0 4px 10px rgba(60, 38, 10, 0.22);
+  }
+
+  .eyebrow {
+    color: var(--accent-ink);
+  }
+
+  .dial button:focus-visible {
+    outline-color: var(--accent-ink);
+  }
+
+  .reset-link:focus-visible {
+    outline-color: var(--accent-ink);
   }
 }
 </style>
