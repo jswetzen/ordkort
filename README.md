@@ -1,16 +1,16 @@
-# Alias – ordspelet
+# Ordkort – ordgissningsspelet
 
-En enkel, fristående webbversion av ordgissningsspelet Alias, på svenska.
+En enkel, fristående webbversion av ett klassiskt ordgissningsspel, på svenska.
 Tre svårighetsgrader (enkelt / mellan / svårt), ~1000 ord, inga upprepningar
 förrän kortleken är slut.
 
-Öppna direkt: **https://jswetzen.github.io/alias-game/**
+Öppna direkt: **https://jswetzen.github.io/ordkort/**
 
 ## Spela
 
 1. Välj svårighetsgrad högst upp.
 2. Tryck **Nytt ord** (eller mellanslag) för nästa ord.
-3. Laget gissar utifrån ledtrådar utan att säga ordet självt, som vanligt i Alias.
+3. Laget gissar utifrån ledtrådar utan att säga ordet självt, som i klassiska ordgissningsspel av det här slaget.
 
 Ordkortet du sett sparas lokalt i webbläsaren (`localStorage`) så att samma ord
 inte dyker upp igen förrän hela leken för den svårighetsgraden är slut. Knappen
